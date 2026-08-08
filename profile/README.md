@@ -1,5 +1,5 @@
 <div>
-  <h1>Hey <img src="../assets/wave.gif" width="30px" height="30px" alt="👋">, I'm Timo!</h1>
+  <h1>Hey <img src="https://raw.githubusercontent.com/EchterTimo/.github/main/assets/wave.gif" width="30px" height="30px" alt="👋">, I'm Timo!</h1>
 </div>
 
 <picture>
