@@ -15,7 +15,7 @@
 
 | Lang | Started | Tags |
 | --- | --- | --- |
-| ![](https://skillicons.dev/icons?i=python) | ![](https://img.shields.io/date/1672527600?color=gray&label) | `web`, `automation`, `ml`, `ai`, `mcp`, `discord-bots` |
+| ![](https://skillicons.dev/icons?i=python) | ![](https://img.shields.io/date/1672527600?color=gray&label) | `web`, `automation`, `ml`, `ai`, `mcp`, `discord-bot` |
 | ![](https://skillicons.dev/icons?i=go) | ![](https://img.shields.io/date/1774994400?color=gray&label) | `web`, `cli` |
 
 ## System
