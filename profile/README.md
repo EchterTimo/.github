@@ -27,4 +27,4 @@
 
 ---
 
-**Email:** [github@timo.software](mailto:github@timo.software) | **Discord:** [EchterTimo](https://discord.com/users/709821646776565760) | **Website:** [timo.software](https://timo.software)
+**Email:** [github@timo.software](mailto:github@timo.software) | **Discord:** [EchterTimo](https://discord.com/users/709821646776565760)
